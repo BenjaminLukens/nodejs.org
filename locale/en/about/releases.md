@@ -7,7 +7,7 @@ statuses:
   current: 'Current'
   pending: 'Pending'
 columns:
-  - 'Release'
+  - 'Release'8
   - 'Status'
   - 'Codename'
   - 'Initial Release'
